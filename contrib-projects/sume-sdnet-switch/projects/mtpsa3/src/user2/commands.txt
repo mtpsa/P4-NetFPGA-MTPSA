@@ -1,0 +1,6 @@
+table_cam_add_entry forward set_output_port 08:11:11:11:11:08 => 0b00000001
+table_cam_add_entry forward set_output_port 08:22:22:22:22:08 => 0b00000100
+table_cam_add_entry forward set_output_port 08:33:33:33:33:08 => 0b00010000
+table_cam_add_entry forward set_output_port 08:44:44:44:44:08 => 0b01000000
+table_cam_add_entry forward set_output_port ff:ff:ff:ff:ff:ff => 0b01010101
+
