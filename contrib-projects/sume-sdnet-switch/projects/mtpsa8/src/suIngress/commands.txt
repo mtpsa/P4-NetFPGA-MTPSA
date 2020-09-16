@@ -1,0 +1,4 @@
+table_cam_add_entry users_table set_user_id 1000 => 0b00000000
+table_cam_add_entry users_table set_user_id 1001 => 0b00000001
+table_cam_add_entry users_table set_user_id 1002 => 0b00000010
+table_cam_add_entry users_table set_user_id 1003 => 0b00000011
