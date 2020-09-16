@@ -2,7 +2,7 @@
 all: mtpsa8.bit config_writes.sh load
 
 load:
-	${SUME_SDNET}/tools/program_switch.sh mtpsa4.bit config_writes.sh
+	${SUME_SDNET}/tools/program_switch.sh mtpsa8.bit config_writes.sh
 
 config_writes.sh:
 	cp ${P4_PROJECT_DIR}/testdata/suIngress/config_writes.sh ./config_writes_suIngress.sh
