@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: 'MTPSA: Multi-Tenant Programmable Switches'
+message: 'If you use this software, please cite it as below.'
+type: software
+authors:
+  - given-names: Radostin
+    family-names: Stoyanov
+    affiliation: University of Cambridge
+    email: radostin@stoyanov.io
+  - given-names: Noa
+    family-names: Zilberman
+    affiliation: University of Oxford
+    email: noa.zilberman@eng.ox.ac.uk
