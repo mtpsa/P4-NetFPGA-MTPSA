@@ -1,5 +1,7 @@
 # P4-NetFPGA-MTPSA
 
+[![DOI](https://zenodo.org/badge/DOI/10.1145/3426744.3431329.svg)](https://dl.acm.org/doi/10.1145/3426744.3431329)
+
 MTPSA (Multi Tenant Programmable Switch Architecture) extends [PSA](https://p4.org/p4-spec/docs/PSA-v1.1.0.html) with support for data plane virtualization. This repository contains an implementation of MTPSA based on the [P4->NetFPGA](https://github.com/NetFPGA/P4-NetFPGA-public/wiki) workflow.
 
 The MTPSA model consists of *Superuser* pipeline and multiple *User* pipelines.
